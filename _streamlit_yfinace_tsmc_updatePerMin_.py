@@ -20,7 +20,7 @@ plot = st.pyplot(fig)
 
 # Loop to fetch and update stock values
 while True:
-    # Get the historical prices for Apple stock
+    # Get the historical prices for TSMC stock
     historical_prices = tsmc_stock.history(period='1d', interval='1m')
     
     # Get the latest price and time
