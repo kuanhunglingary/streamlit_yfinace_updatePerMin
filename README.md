@@ -1,4 +1,4 @@
-# Using streamlit via yfinance and matplotlib module to present TSMC stock price per minute
+# Using streamlit via yfinance and matplotlib module to present the stock price per minute
 ![image](./streamlit_yfinace_updatePerMin.png)
 ```
 # Importing Necessary Libraries
